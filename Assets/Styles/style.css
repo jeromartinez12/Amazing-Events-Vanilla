@@ -1,0 +1,197 @@
+body {
+    font-family: sans-serif;
+    background-color: #1d1d1f10;
+}
+.headernav {
+    background-color: #1d1d1f;
+}
+.nav2color {
+    background-color: #f9d7e7;
+    z-index: 0;
+}
+.navbarjero li a{
+    color: #f9d7e7;
+}
+
+.buttonheader {
+    border-color: #d90367;
+    color: #D90368;
+}
+
+.active {
+    color: #d90367 !important;
+}
+.navcolor:hover {
+    color: #d90367;
+}
+.logo {
+    width:100px;
+    height:24px;
+}
+.navbar2 {
+    height: 5vh;
+}
+.chevron {
+    width:32px;
+    height:32px;
+}
+.listjero li {
+    border: none;
+    color: #D90368;
+    margin-left: 5px;
+}
+.formjero input {
+    background-color: #f9d7e7;
+    border: none;
+}
+.formjero input:hover {
+    background-color: #f9d7e7;
+}
+.formjero i {
+    color: #d90367;
+}
+.formjero button {
+    border-color: #D90368;
+    color: #D90368;
+}
+.formjero button:hover {
+    background-color: #D90368;
+    color: white;
+}
+.dropdownjero {
+    border-color: #D90368 !important;
+    background-color: #D90368 !important;
+}
+.footercard a{
+    border-color: #D90368 !important;
+    background-color: #D90368 !important;
+}
+
+.contactform button {
+    border-color: #D90368 !important;
+    color: #D90368 !important;
+}
+.contactform button:hover {
+    background-color: #D90368 !important;
+    color: white !important;
+}
+.labelcolor {
+    color: #D90368;
+}
+.inputcolor {
+    border-color: #D90368;
+    color: #D90368 !important;
+}
+.theadcolor {
+    text-decoration: underline #D90368;
+    text-align: center;
+}
+.trcolor {
+    font-weight: 600;
+    font-size: 13px;
+    text-align: center;
+}
+.trdate {
+    text-align: center;
+    font-size: 13px;
+}
+.tableposition {
+    align-items: center;
+    justify-content: center;
+}
+footer {
+    height: 5vh;
+    background-color: #1d1d1fec;
+    justify-content: center;
+    text-align: center;
+}
+footer .icons {
+    width: 50%;
+    height: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+footer .footertext{
+    height: 100%;
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+    line-height: 5vh;
+    color: #f9d7e7;
+}
+
+.maindate {
+    height: 85vh;
+    background-color: #d903670c;
+    text-align: center;
+    margin: 4em;
+    align-items: center;
+    justify-content: center;
+    border: #D90368 solid 1px;
+}
+
+.cardjero {
+    display: flex;
+    justify-content: center;
+    border: none;
+
+}
+.divimg {
+    border: #D90368 solid 1px;
+    display: flex;
+}
+.cardbody {
+    border: #D90368 solid 1px;
+    height: 100%;
+}
+.iconscolor {
+    color: #d90367;
+}
+.imagecard {
+    text-align: center;
+    color: #1d1d1f;
+    background-color: #f9d7e7;
+    border: none;
+}
+.imagecard h6 {
+    text-decoration: underline;
+}
+.imagecard p{
+    font-size: 14px;
+}
+.imagecard img {
+    height: 24vh;
+    object-fit: cover;
+
+}
+.chevronColor {
+    color: #d90367;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.conteinerCard {
+    display: flex;
+    justify-content: center;
+}
+.cardInfo {
+    text-align: center;
+    background-color: #f9d7e7;
+    border: none;
+}
+.cardInfo ul li {
+    border-color: #f9d7e7;
+}
+.cartelito {
+    background-color: #1d1d1f;
+    color: #d90367;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+}
+.cartelito p {
+    line-height: 10vh;
+}
